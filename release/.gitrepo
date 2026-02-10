@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pmalacho-mit/parkdown-suede
+	branch = release
+	commit = d187478470e8dbd6c20901700cf45638674e73a6
+	parent = b24277ee9620a865e4bd0d1ee3a1f86554043ca8
+	method = merge
+	cmdver = 0.4.9
